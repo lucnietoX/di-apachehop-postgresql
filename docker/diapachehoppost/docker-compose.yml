@@ -1,0 +1,13 @@
+version: '3.1'
+services:
+        apache-hop:
+                image: apache/hop
+                container_name: apache-hop_1
+                ports:
+                        - 8080:8080
+                environment: 
+                 HOP_SERVER_USER: admin
+                 HOP_SERVER_PASS: pass
+networks:
+        compose-network:
+                driver: bridge

@@ -29,4 +29,4 @@ To get started with this project, follow the steps below:
 3. Execute docker composer & pipelines
 
 # Source
-Source of dataset information: https://www.kaggle.com/datasets/promptcloud/amazon-product-dataset-2020?resource=download
+Kaggle dataset - Amazon Product: https://www.kaggle.com/datasets/promptcloud/amazon-product-dataset-2020?resource=download

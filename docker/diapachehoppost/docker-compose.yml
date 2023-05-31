@@ -18,7 +18,7 @@ services:
                  HOP_SERVER_USER: admin
                  HOP_SERVER_PASS: pass
                 volumes: 
-                        - ./app/hop:/hop
+                        - ./volume/:/hop
 
         postgres-db:
                 image: postgres

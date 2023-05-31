@@ -27,3 +27,6 @@ To get started with this project, follow the steps below:
    
 2. Perform access permissions into all ports
 3. Execute docker composer & pipelines
+
+# Source
+Kaggle dataset - Amazon Product: https://www.kaggle.com/datasets/promptcloud/amazon-product-dataset-2020?resource=download
